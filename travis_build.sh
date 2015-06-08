@@ -1,7 +1,6 @@
 #!/bin/sh
 set -o nounset                              # Treat unset variables as an error
 
-
 #build nginx-vod-module and deps
 
 KALTURA_NGINX_VOD_VERSION=master
